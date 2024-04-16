@@ -31,6 +31,9 @@ async function saveHackerNewsArticles() {
   fs.writeFileSync("hacker_news_top_10.csv", csvContent);
 
   console.log("Top 10 Hacker News articles saved to hacker_news_top_10.csv");
+
+    // Close the browser
+    await browser.close();
 }
 
 (async () => {

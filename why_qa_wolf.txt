@@ -1,0 +1,9 @@
+After reviewing QA Wolf's website, I am impressed that the company seems to care deeply about what it does and has a high commitment to quality, which matches my working style. Joining QA Wolf would not only let me get back into  JavaScript programming but also offer the chance to be part of a high quality platform / service for customers.
+
+As well as having worked in customer service I also have extensive testing experience in the Financial Services and E-learning sectors. 
+This includes devising testing strategies, managing the testing phase in projects, creating test plans, as well as testing as a QA Analyst. My QA  skills include Smoke Testing, Unit Testing, SIT, UAT, Regression Testing in the areas of Functional Testing and  Accessibility Testing.
+
+Programming is my main passion. With some years of experience with JavaScript, I have developed various applications in this language. I also completed a sabbatical as a junior programmer in GP Strategies working with Javascript, JSON, HTML and CSS. Last year, I graduated from a three-month full-stack development bootcamp with General Assembly. Currently, I am an IT Development Associate at RiverStone, a reinsurance company where I program and provide customer service in relation to the company’s insurance database.
+
+I rarely apply for jobs but after discovering QA Wolf and PlayWright, I am drawn to the opportunity. I have looked at some automated
+testing tools and PlayWright appears to be a particularly cutting-edge, strong tool, and I would love to get stuck into programming using this platform. 
